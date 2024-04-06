@@ -11,6 +11,10 @@
    
 ## How to run project 
 
+## Demo
+
+![Object 2D](image/Vật 2D_Nhóm 4 (online-video-cutter.com).gif)
+
 ## References
 
 ## Contact
