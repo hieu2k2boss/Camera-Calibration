@@ -13,7 +13,8 @@
 
 ## Demo
 
-![Object 2D](image/Vật 2D_Nhóm 4 (online-video-cutter.com).gif)
+![Object 2D](image/2D.gif)
+![Object 3D](image/3D.gif)
 
 ## References
 
