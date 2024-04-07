@@ -5,7 +5,7 @@ import cv2
 import glob
 import time
 
-workingdir="/home/pi/Desktop/Captures/"
+workingdir="calibration_images"
 savedir="camera_data/"
 
 

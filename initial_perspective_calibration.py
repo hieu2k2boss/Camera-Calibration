@@ -10,7 +10,7 @@ cameraXYZ=camera_realworldxyz.camera_realtimeXYZ()
 calculatefromCam=False
 calculatefromCam_1=True
 
-imgdir="/home/pi/Desktop/Captures/"
+imgdir="calibration_images"
 
 writeValues=True
 
